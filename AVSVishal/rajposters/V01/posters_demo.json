@@ -1,0 +1,285 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-12-22",
+  "categories": [
+    {
+      "id": "party_banner",
+      "name": "पार्टी बैनर",
+      "icon": "🎭",
+      "color": "#9C27B0"
+    },
+    {
+      "id": "daily_post",
+      "name": "डेली पोस्ट",
+      "icon": "📅",
+      "color": "#00BCD4"
+    },
+    {
+      "id": "bhakti",
+      "name": "भक्ति सुविचार",
+      "icon": "🕉️",
+      "color": "#FF9800"
+    },
+    {
+      "id": "shubhechha",
+      "name": "शुभेच्छा",
+      "icon": "🌺",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "festival",
+      "name": "त्यौहार",
+      "icon": "🎊",
+      "color": "#F44336"
+    }
+  ],
+  "posters": [
+    {
+      "id": "dussehra_2024_1",
+      "title": "Dussehra Special",
+      "category_id": "festival",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/dussehra_1.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/dussehra_1.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 50,
+        "y": 30,
+        "width": 80,
+        "height": 80,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 50,
+        "y": 75,
+        "font_size": 18,
+        "color": "#FFFFFF",
+        "align": "center"
+      },
+      "tags": ["dussehra", "festival", "indian"],
+      "created_at": "2024-10-20"
+    },
+    {
+      "id": "vijayadashami_2024",
+      "title": "विजयादशमी",
+      "category_id": "festival",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/vijayadashami.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/vijayadashami.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 30,
+        "y": 20,
+        "width": 60,
+        "height": 60,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 30,
+        "y": 82,
+        "font_size": 14,
+        "color": "#000000",
+        "align": "center"
+      },
+      "event_date": "2024-10-24",
+      "tags": ["vijayadashami", "festival"],
+      "created_at": "2024-10-20"
+    },
+    {
+      "id": "bharat_milap_2024",
+      "title": "भरत मिलाप",
+      "category_id": "festival",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/bharat_milap.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/bharat_milap.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 30,
+        "y": 20,
+        "width": 60,
+        "height": 60,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 30,
+        "y": 82,
+        "font_size": 14,
+        "color": "#FFFFFF",
+        "align": "center"
+      },
+      "event_date": "2024-10-25",
+      "tags": ["bharat milap", "festival"],
+      "created_at": "2024-10-21"
+    },
+    {
+      "id": "ganesh_chaturthi_2024",
+      "title": "गणेश चतुर्थी",
+      "category_id": "festival",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/ganesh_chaturthi.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/ganesh_chaturthi.jpg",
+      "is_free": false,
+      "user_photo_position": {
+        "x": 30,
+        "y": 20,
+        "width": 60,
+        "height": 60,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 30,
+        "y": 82,
+        "font_size": 14,
+        "color": "#000000",
+        "align": "center"
+      },
+      "event_date": "2024-10-26",
+      "tags": ["ganesh", "festival"],
+      "created_at": "2024-10-15"
+    },
+    {
+      "id": "diwali_2024_1",
+      "title": "दिवाली स्पेशल",
+      "category_id": "festival",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/diwali_1.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/diwali_1.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 20,
+        "y": 70,
+        "width": 100,
+        "height": 100,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 50,
+        "y": 85,
+        "font_size": 20,
+        "color": "#FFD700",
+        "align": "center"
+      },
+      "tags": ["diwali", "festival", "lights"],
+      "created_at": "2024-10-25"
+    },
+    {
+      "id": "dhanteras_2024",
+      "title": "धनतेरस",
+      "category_id": "festival",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/dhanteras.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/dhanteras.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 75,
+        "y": 60,
+        "width": 80,
+        "height": 80,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 50,
+        "y": 80,
+        "font_size": 18,
+        "color": "#8B4513",
+        "align": "center"
+      },
+      "tags": ["dhanteras", "festival"],
+      "created_at": "2024-10-28"
+    },
+    {
+      "id": "good_morning_1",
+      "title": "Good Morning",
+      "category_id": "daily_post",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/good_morning_1.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/good_morning_1.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 80,
+        "y": 10,
+        "width": 50,
+        "height": 50,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 80,
+        "y": 90,
+        "font_size": 14,
+        "color": "#FFFFFF",
+        "align": "right"
+      },
+      "tags": ["good morning", "daily"],
+      "created_at": "2024-10-01"
+    },
+    {
+      "id": "bhakti_quote_1",
+      "title": "भक्ति सुविचार",
+      "category_id": "bhakti",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/bhakti_1.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/bhakti_1.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 10,
+        "y": 85,
+        "width": 50,
+        "height": 50,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 10,
+        "y": 95,
+        "font_size": 12,
+        "color": "#FFFFFF",
+        "align": "left"
+      },
+      "tags": ["bhakti", "quotes"],
+      "created_at": "2024-10-10"
+    },
+    {
+      "id": "birthday_1",
+      "title": "जन्मदिन की शुभकामनाएं",
+      "category_id": "shubhechha",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/birthday_1.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/birthday_1.jpg",
+      "is_free": false,
+      "user_photo_position": {
+        "x": 50,
+        "y": 40,
+        "width": 100,
+        "height": 100,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 50,
+        "y": 70,
+        "font_size": 22,
+        "color": "#FF1493",
+        "align": "center"
+      },
+      "tags": ["birthday", "celebration"],
+      "created_at": "2024-09-15"
+    },
+    {
+      "id": "party_banner_1",
+      "title": "पार्टी बैनर",
+      "category_id": "party_banner",
+      "image_url": "http://avsvishalmedia.com/rajposters/images/party_banner_1.jpg",
+      "thumbnail_url": "http://avsvishalmedia.com/rajposters/images/thumbs/party_banner_1.jpg",
+      "is_free": true,
+      "user_photo_position": {
+        "x": 15,
+        "y": 15,
+        "width": 70,
+        "height": 70,
+        "shape": "circle"
+      },
+      "user_name_position": {
+        "x": 15,
+        "y": 90,
+        "font_size": 16,
+        "color": "#FFFFFF",
+        "align": "left"
+      },
+      "tags": ["party", "banner"],
+      "created_at": "2024-11-01"
+    }
+  ],
+  "user_profile_defaults": {
+    "default_name": "आपका नाम",
+    "default_photo_url": "http://avsvishalmedia.com/rajposters/images/default_profile.png"
+  }
+}
