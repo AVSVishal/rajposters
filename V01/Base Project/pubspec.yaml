@@ -1,0 +1,31 @@
+name: base_app
+description: A simple base Flutter application template
+version: 0.10.0+10
+
+environment:
+  sdk: '>=3.8.1 <4.0.0'
+  flutter: ">=3.32.7"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # CORE DEPENDENCIES (TESTED VERSIONS FROM TRICKOLOGY)
+  http: ^1.1.0                     # HTTP requests
+  path_provider: ^2.1.1           # File system access
+  sqflite: ^2.3.0                 # SQLite database
+  path: ^1.8.3                    # Path manipulation
+  connectivity_plus: ^5.0.2       # Network connectivity
+  shared_preferences: ^2.5.3      # Simple data storage
+  cupertino_icons: ^1.0.2         # iOS style icons
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
